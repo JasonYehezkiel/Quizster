@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Quizster" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="fontFamily">@font/poppins_regular</item>
+        <item name="android:windowBackground">#FAFAFA</item>
+        <item name="buttonStyle">@style/RoundedButton</item>
+        <item name="android:textColorPrimary">#212121</item>
+    </style>
+
+    <style name="RoundedButton" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">#2196F3</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:background">@drawable/rounded_button</item>
+    </style>
+
+</resources>

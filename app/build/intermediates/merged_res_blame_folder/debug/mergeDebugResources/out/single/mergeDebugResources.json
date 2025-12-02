@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_menu_item_background.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/menu_item_background.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_progress_card_background.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/progress_card_background.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.quizster.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_rounded_button.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/layout_activity_main.xml.flat",
+        "source": "com.example.quizster.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/layout_activity_quiz.xml.flat",
+        "source": "com.example.quizster.app-main-54:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/font_poppins_regular.ttf.flat",
+        "source": "com.example.quizster.app-main-54:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_ic_sad.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/ic_sad.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_gradient_background.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_ic_quiz_progress.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/ic_quiz_progress.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_question_background.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/question_background.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.quizster.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_author_photo.jpg.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/author_photo.jpg"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_quizster_logo.png.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/quizster_logo.png"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_ic_help.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_ic_trophy.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/ic_trophy.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/layout_activity_about.xml.flat",
+        "source": "com.example.quizster.app-main-54:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_ic_exit.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/ic_exit.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_rounded_item.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/rounded_item.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_ic_info.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/layout_menu_item.xml.flat",
+        "source": "com.example.quizster.app-main-54:/layout/menu_item.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/layout_activity_score.xml.flat",
+        "source": "com.example.quizster.app-main-54:/layout/activity_score.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_ic_play_arrow.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/ic_play_arrow.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.quizster.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-debug-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quizster.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,48 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Quizster</string>
+
+    <!-- Main Menu -->
+    <string name="footer">\@2024 Quizster</string>
+    <string name="subtitle">Uji Kemampuanmu</string>
+
+    <!-- Quiz Screen -->
+    <string name="progress_icon">Progress Icon</string>
+    <string name="quiz_progress">Pertanyaan  %1$d / %2$d</string>
+    <string name="quiz_text">Pertanyaan Muncul disini</string>
+    <string name="btn_true">True</string>
+    <string name="btn_false">False</string>
+    <string name="btn_help">Help (max 3)</string>
+
+    <!-- Score Screen -->
+    <string name="result_icon">Result Icon</string>
+    <string name="score_total">Skor: %1$d / %2$d</string>
+    <string name="you_won">You Won, Congratulations!</string>
+    <string name="you_lost">You Lost, Better Luck Next Time!</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="btn_back_to_menu">Back to Menu</string>
+
+    <!-- About Screen -->
+    <string name="about_text">About Quizster</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="about_author">
+        <![CDATA[
+        Dibuat oleh:\n
+        Nama: Jason Yehezkiel Wijaya\n
+        NIM: 191900531\n
+        Untuk: IBDA3121 - Mobile Applications
+        ]]>
+    </string>
+    <string name="description">
+        Quizster adalah aplikasi sederhana yang dikembangkan menggunakan Kotlin.
+        Aplikasi ini menampilkan 10 pertanyaan acak dari total 30 soal yang tersedia,
+        dengan format pertanyaan ya atau tidak.
+        Setiap pengguna memiliki tiga kesempatan bantuan yang dapat digunakan selama
+        permainan untuk melihat jawaban benar. Setelah pengguna menjawab seluruh pertanyaan,
+        aplikasi akan menampilkan skor akhir serta memberi opsi untuk bermain kembali atau
+        kembali ke menu utama.
+    </string>
+
+</resources>
+
+

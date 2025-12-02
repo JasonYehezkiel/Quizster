@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.quizster.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.example.quizster.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-mergeDebugResources-51:/layout/activity_quiz.xml",
+        "source": "com.example.quizster.app-main-54:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-mergeDebugResources-51:/layout/menu_item.xml",
+        "source": "com.example.quizster.app-main-54:/layout/menu_item.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-mergeDebugResources-51:/layout/activity_score.xml",
+        "source": "com.example.quizster.app-main-54:/layout/activity_score.xml"
+    },
+    {
+        "merged": "com.example.quizster.app-mergeDebugResources-51:/layout/activity_about.xml",
+        "source": "com.example.quizster.app-main-54:/layout/activity_about.xml"
+    }
+]
