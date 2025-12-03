@@ -71,5 +71,5 @@ cd Quizster
 ## 👤 Author
 
 Name: Jason Yehezkiel  
-NIM: 191900531
+NIM: 191900531  
 University: Calvin Institute of Technology
